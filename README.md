@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @ypratik817
 - 👀 I have a keen interest in Development and Algorithmic Problem Solving CP
-- 🌱 I’m currently exploring Web Development
+- 🌱 I’m currently doing CP and exploring Web Development
