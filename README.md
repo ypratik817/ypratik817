@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Pratik Yadav
-- 👀 I have a keen interest in CP Algorithmic Problem Solving and  Development
-- 🌱 I’m currently doing CP and exploring Web Development
+- 👀 I have a keen interest in Competitive Programming and Development
+- 🌱 I’m currently doing Competitive Programming and exploring Web Development
