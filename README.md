@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @ypratik817
+- 👋 Hi, I’m Pratik Yadav
 - 👀 I have a keen interest in CP Algorithmic Problem Solving and  Development
 - 🌱 I’m currently doing CP and exploring Web Development
