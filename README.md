@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑‍💻Hey I'm Pratik Yadav<br>🌱 I’m currently learning Backend Development<br>💬 Ask me about Competitive Programming, Algorithms.<br>
+🧑‍💻Hey I'm Pratik Yadav
 
 
 ## 🌐 Socials:
